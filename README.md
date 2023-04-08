@@ -1,0 +1,1 @@
+# configuracao-eslint-prettier-react-typescript
