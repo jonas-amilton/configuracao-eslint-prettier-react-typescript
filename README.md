@@ -29,7 +29,7 @@
 
 ❯ Single
 
-❯ Unix
+❯ Windows
 
 ? Do you require semicolons? › No / Yes (Yes)
 
